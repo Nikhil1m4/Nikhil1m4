@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Final year Iinformation Technology undergradute with Strong interest in Software Development and Machine Learning.
 <!--
 **Nikhil1m4/Nikhil1m4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
