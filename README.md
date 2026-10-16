@@ -14,7 +14,7 @@ Here are some ideas to get you started: -->
 
 💬 Ask me about ... My technical works and hobbies
 
-- 📫 How to reach me: ... contact me via my portfolio.
+- 📫 How to reach me: ... contact me via my portfolio. 
 <!-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
